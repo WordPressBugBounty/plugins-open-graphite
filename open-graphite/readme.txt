@@ -5,7 +5,7 @@ Author URI:         https://rocketapps.com.au/
 Plugin URI:         https://wordpress.org/plugins/open-graphite/
 Tags:               open graph, social, facebook, twitter, thumbnail
 Requires at least:  4.7
-Tested up to:       6.4
+Tested up to:       6.8
 Stable tag:         1.7.1
 License:            GPLv3 or later
 License URI:        https://www.gnu.org/licenses/gpl-3.0.html
